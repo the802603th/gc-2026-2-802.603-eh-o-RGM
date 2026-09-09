@@ -38,3 +38,4 @@ Cada uma cabe numa issue própria:
 - Impedir agendamento em data que já passou.
 - Mostrar quantas consultas cada profissional tem no dia.
 - Avisar quando o mesmo paciente já tem consulta no mesmo dia.
+# Adição da capacidade de desmarcar consultas já agendadas foi a escolha feita
